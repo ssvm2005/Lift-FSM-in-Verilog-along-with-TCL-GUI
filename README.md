@@ -15,6 +15,10 @@ This project implements a digital controller for a 10-floor elevator system cons
 * Dynamic testbench generation through the GUI
 * Simulation using Icarus Verilog
 
+## GUI Preview
+
+![Elevator GUI](gui.png)
+
 ## Elevator FSM States
 
 The controller operates using four states:
